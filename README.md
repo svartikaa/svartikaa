@@ -1,91 +1,12 @@
-- ### Hi there, I'm Ashish Patel👋
-  ![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)  
-  [![Website](https://img.shields.io/website?label=ashishpatel26&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/ashishpatel2604/)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/imashish2604?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imashish2604)
+# 💫 About Me
+⚡ I am a final year BTech CSE student at SRM IST with hands-on experience in Web development, AI and Machine Learning.<br>
+🔭 I am passionate about leveraging technology to solve real-world problems and I am eager to contribute to innovative projects.
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](//instagram.com/dipanshukapri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](//linkedin.com/in/dipanshukapri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](//x.com/DipanshuKapri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](//youtube.com/@dipanshukapri) 
+[![](https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white)](//open.spotify.com/user/3176jokwrfglqwmejmo6cctuda2i)
+# [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3176jokwrfglqwmejmo6cctuda2i)
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
-
-  ## I'm a Author, Sr. Data Scientist, AI Researcher, Quantum Machine learning Practitioner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
-
----
-
-  * 🔭 I am Currently working as **Sr.AWS AI ML Solution Architect** at [IBM](https://www.ibm.com/in-en)
-
-  - 🌱 I’m currently Learning Quantum Machine learning😎.
-
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
-  
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
-  
-  - 🥅 2022 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
-
-  - ⚡ Fun fact: I love to code.
-
----
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-   ## ⚡ Technologies I use 
-
-<div align="center">
-<table align="center">
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
-            <br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
-            <br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
-            <br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/pytorch.png" width="65px"/>
-            <br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
-            <br /> FastAPI
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
-            <br /> Docker
-        </td>
-    </tr>
-</table>
-</div>
-
- - Laptop (I am using)
- -[UserBenchmarks: Game 64%, Desk 82%, Work 62%](https://www.userbenchmark.com/UserRun/54001935)  
-
-||Model|Bench
-:----|:----|:----|
-**CPU**|[Intel Core i7-10870H](https://cpu.userbenchmark.com/SpeedTest/1322918/IntelR-CoreTM-i7-10870H-CPU---220GHz)|77.1%
-**GPU**|[Intel UHD Graphics](https://gpu.userbenchmark.com/SpeedTest/1027883/IntelR-UHD-Graphics)|4.8%
-**GPU**|[Nvidia RTX 3060 (Laptop)](https://gpu.userbenchmark.com/SpeedTest/1452971/NVIDIA-GeForce-RTX-3060-Laptop-GPU)|84.1%
-**SSD**|[Samsung MZVLB1T0HBLR-00007 1TB](https://ssd.userbenchmark.com/SpeedTest/963042/SAMSUNG-MZVLB1T0HBLR-00007)|104.4%
-**RAM**|[Hynix HMAA2GS6AJR8N-XN 1x16GB](https://ram.userbenchmark.com/SpeedTest/1166099/Hynix-HMAA2GS6AJR8N-XN-1x16GB)|37.8%
-**MBD**|[Acer Predator PH315-53](https://www.userbenchmark.com/System/Acer-Predator-PH315-53/193818)|   
-
-### Important Repository
-
-💾 365 Days of Computer Vision - [🔗](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post)
-
----
-
-***Thanks for visit my profile.***
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
